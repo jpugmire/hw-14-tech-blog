@@ -5,6 +5,7 @@ const routes = require('./controllers');
 const helpers = require('./utils/formatDate');
 const sequelize = require('./config/connection.js');
 const session = require('express-session');
+const cookieParser = require('cookie-parser');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
