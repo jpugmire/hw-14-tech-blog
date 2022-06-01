@@ -19,6 +19,7 @@ const sess = {
     cookie: { maxAge: fiveMin }
 };
 
+app.use(express.cookieParser(process.env.SECRET))
 app.use(session(sess));
 
 const hbs = exphbs.create({ helpers });
