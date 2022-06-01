@@ -1,0 +1,66 @@
+[
+    {
+        "user_id": 1,
+        "post_text": "Hey, this is a test.",
+        "post_date": "2022-05-05 14:45:02",
+        "likes": 3,
+        "Dislike": 1,
+        "post_voidtime": null
+    },
+    {
+        "user_id": 2,
+        "post_text": "woah. what a cool page",
+        "post_date": "2022-05-05 11:02:03",
+        "likes": 2,
+        "Dislike": 0,
+        "post_voidtime": null
+    },
+    {
+        "user_id": 3,
+        "post_text": "OMG this is a great website. I could post here everyday. I'm testing out like a super super super super super super super super super super super super super super super super long post",
+        "post_date": "2022-05-04 16:02:03",
+        "likes": 3,
+        "Dislike": 0,
+        "post_voidtime": null
+    },
+    {
+        "user_id": 3,
+        "post_text": "Like forreal. Everyday",
+        "post_date": "2022-05-04 12:26:53",
+        "likes": 1,
+        "Dislike": 3,
+        "post_voidtime": null
+    },
+    {
+        "user_id": 4,
+        "post_text": "Hey guys, this is my first post. Think you could drop me a like?",
+        "post_date": "2022-05-03 17:27:53",
+        "likes": 4,
+        "Dislike": 0,
+        "post_voidtime": null
+    },
+    {
+        "user_id": 2,
+        "post_text": "I love seeing all of your messages!",
+        "post_date": "2022-05-03 13:26:53",
+        "likes": 4,
+        "Dislike": 0,
+        "post_voidtime": null
+    },
+    {
+        "user_id": 3,
+        "post_text": "What's up people of my community?",
+        "post_date": "2022-05-02 14:26:53",
+        "likes": 0,
+        "Dislike": 0,
+        "post_voidtime": null
+    },
+    {
+        "user_id": 1,
+        "post_text": "Heyyo. How's this message? Pretty great, right?",
+        "post_date": "2022-05-02 10:55:53",
+        "likes": 1,
+        "Dislike": 3,
+        "post_voidtime": null
+    }
+]
