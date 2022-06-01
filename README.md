@@ -5,6 +5,7 @@
   ## Description
 
   This is a forum board where you can create an account, log in, and make a post.
+  Deployed [link](https://tech-blog-pug.herokuapp.com/)
 
   ## Table of Contents
 
@@ -36,6 +37,3 @@
 
   If you have any questions about the repo, open an issue or contact me here: jospugg@gmail.com.
   You can find more of my work at [jpugmire](https://github.com/jpugmire).
-  
-  Deployed [link](https://tech-blog-pug.herokuapp.com/)
-  
