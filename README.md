@@ -1,6 +1,6 @@
-# SQL Employee Mgmt Portal
+# Community Tech Blog
   
-  ### Homework 12
+  ### Homework 14 - MVC
 
   ## Description
 
